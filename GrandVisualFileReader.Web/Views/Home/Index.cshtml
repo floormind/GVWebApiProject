@@ -1,0 +1,15 @@
+﻿@model dynamic
+
+@{
+    ViewBag.Title = "title";
+}
+
+<h2>Grand Visual Developer Endpoints</h2>
+<p>Welcome to the API for finding out grand visual's developers and their endpoints.</p>
+<p>Below are 2 endpoints for getting the data</p>
+<h4>Get All Developers</h4>
+<p>This will return all developers.</p>
+@Html.ActionLink("Get All Developers", "GetAllDevelopers", "File")
+<h4>Get High Level Developers</h4>
+<p>This will return all high level developers and the skill their high level skill</p>
+@Html.ActionLink("Get High Level Developers", "GetHighLevelDevelopers", "File")

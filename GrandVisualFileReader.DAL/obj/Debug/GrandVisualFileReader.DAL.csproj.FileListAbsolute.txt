@@ -1,0 +1,13 @@
+\\mac\home\documents\visual studio 2015\Projects\GrandVisualFileReader.Web\GrandVisualFileReader.DAL\bin\Debug\GrandVisualFileReader.DAL.dll
+\\mac\home\documents\visual studio 2015\Projects\GrandVisualFileReader.Web\GrandVisualFileReader.DAL\bin\Debug\GrandVisualFileReader.DAL.pdb
+\\mac\home\documents\visual studio 2015\Projects\GrandVisualFileReader.Web\GrandVisualFileReader.DAL\bin\Debug\GrandVisualFileReader.DataModel.dll
+\\mac\home\documents\visual studio 2015\Projects\GrandVisualFileReader.Web\GrandVisualFileReader.DAL\bin\Debug\Newtonsoft.Json.dll
+\\mac\home\documents\visual studio 2015\Projects\GrandVisualFileReader.Web\GrandVisualFileReader.DAL\bin\Debug\GrandVisualFileReader.DataModel.pdb
+\\mac\home\documents\visual studio 2015\Projects\GrandVisualFileReader.Web\GrandVisualFileReader.DAL\bin\Debug\Newtonsoft.Json.xml
+\\mac\home\documents\visual studio 2015\Projects\GrandVisualFileReader.Web\GrandVisualFileReader.DAL\obj\Debug\GrandVisualFileReader.DAL.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\GrandVisualFileReader.Web\GrandVisualFileReader.DAL\obj\Debug\GrandVisualFileReader.DAL.dll
+\\mac\home\documents\visual studio 2015\Projects\GrandVisualFileReader.Web\GrandVisualFileReader.DAL\obj\Debug\GrandVisualFileReader.DAL.pdb
+\\mac\home\documents\visual studio 2015\Projects\GrandVisualFileReader.Web\GrandVisualFileReader.DAL\bin\Debug\GrandVisualFileReader.Logger.dll
+\\mac\home\documents\visual studio 2015\Projects\GrandVisualFileReader.Web\GrandVisualFileReader.DAL\bin\Debug\log4net.dll
+\\mac\home\documents\visual studio 2015\Projects\GrandVisualFileReader.Web\GrandVisualFileReader.DAL\bin\Debug\GrandVisualFileReader.Logger.pdb
+\\mac\home\documents\visual studio 2015\Projects\GrandVisualFileReader.Web\GrandVisualFileReader.DAL\bin\Debug\log4net.xml

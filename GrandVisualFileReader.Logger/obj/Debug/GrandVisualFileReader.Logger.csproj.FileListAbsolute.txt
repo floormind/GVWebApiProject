@@ -1,0 +1,7 @@
+\\mac\home\documents\visual studio 2015\Projects\GrandVisualFileReader.Web\GrandVisualFileReader.Logger\bin\Debug\GrandVisualFileReader.Logger.dll
+\\mac\home\documents\visual studio 2015\Projects\GrandVisualFileReader.Web\GrandVisualFileReader.Logger\bin\Debug\GrandVisualFileReader.Logger.pdb
+\\mac\home\documents\visual studio 2015\Projects\GrandVisualFileReader.Web\GrandVisualFileReader.Logger\bin\Debug\log4net.dll
+\\mac\home\documents\visual studio 2015\Projects\GrandVisualFileReader.Web\GrandVisualFileReader.Logger\bin\Debug\log4net.xml
+\\mac\home\documents\visual studio 2015\Projects\GrandVisualFileReader.Web\GrandVisualFileReader.Logger\obj\Debug\GrandVisualFileReader.Logger.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\GrandVisualFileReader.Web\GrandVisualFileReader.Logger\obj\Debug\GrandVisualFileReader.Logger.dll
+\\mac\home\documents\visual studio 2015\Projects\GrandVisualFileReader.Web\GrandVisualFileReader.Logger\obj\Debug\GrandVisualFileReader.Logger.pdb
